@@ -1,0 +1,563 @@
+FREE-TIER / INCLUDED-CREDIT MODEL CATALOG
+========================================
+
+OpenRouter and Groq are filtered using their current provider model/free-plan information.
+Gemini is filtered against the current free-tier model set and then intersected with models available to the supplied API key.
+Hugging Face is listed separately because its free plan provides monthly inference credits rather than a fixed permanently-free model list.
+
+OPENROUTER — FREE MODELS
+========================
+Count: 21
+
+1. cohere/north-mini-code:free
+   Name: Cohere: North Mini Code (free)
+   Context: 256000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+2. dots-studio/dots-3-note-preview:free
+   Name: Dots Studio: Dots3-Note Preview (free)
+   Context: 512000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+3. google/gemma-4-26b-a4b-it:free
+   Name: Google: Gemma 4 26B A4B  (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+4. google/gemma-4-31b-it:free
+   Name: Google: Gemma 4 31B (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+5. google/lyria-3-clip-preview
+   Name: Google: Lyria 3 Clip Preview
+   Context: 1048576
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+6. google/lyria-3-pro-preview
+   Name: Google: Lyria 3 Pro Preview
+   Context: 1048576
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+7. inclusionai/ling-3.0-flash-fin:free
+   Name: inclusionAI: Ling 3.0 Flash Fin (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+8. inclusionai/ling-3.0-flash-sante:free
+   Name: inclusionAI: Ling 3.0 Flash Sante (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+9. liquid/lfm-2.5-2.6b:free
+   Name: LiquidAI: LFM2.5-2.6B (free)
+   Context: 65536
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+10. nex-agi/nex-n2.5-mini:free
+   Name: Nex AGI: Nex-N2.5-Mini (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+11. nex-agi/nex-n2.5-pro:free
+   Name: Nex AGI: Nex-N2.5-Pro (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+12. nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+   Name: NVIDIA: Nemotron 3 Nano Omni (free)
+   Context: 256000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+13. nvidia/nemotron-3-super-120b-a12b:free
+   Name: NVIDIA: Nemotron 3 Super (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+14. nvidia/nemotron-3-ultra-550b-a55b:free
+   Name: NVIDIA: Nemotron 3 Ultra (free)
+   Context: 1000000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+15. nvidia/nemotron-3.5-content-safety:free
+   Name: NVIDIA: Nemotron 3.5 Content Safety (free)
+   Context: 128000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+16. nvidia/nemotron-3.5-lightning:free
+   Name: NVIDIA: Nemotron 3.5 Lightning (free)
+   Context: 1000000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+17. openrouter/free
+   Name: Free Models Router
+   Context: 200000
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+18. poolside/laguna-s-2.1:free
+   Name: Poolside: Laguna S 2.1 (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+19. poolside/laguna-xs-2.1:free
+   Name: Poolside: Laguna XS 2.1 (free)
+   Context: 262144
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+20. thinkingmachines/inkling-small:free
+   Name: Thinking Machines: Inkling Small (free)
+   Context: 1048576
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+21. thinkingmachines/inkling:free
+   Name: Thinking Machines: Inkling (free)
+   Context: 1048576
+   Pricing: {'prompt': '0', 'completion': '0'}
+
+GROQ — FREE PLAN MODELS
+=======================
+Count: 13
+
+1. canopylabs/orpheus-arabic-saudi
+
+2. canopylabs/orpheus-v1-english
+
+3. groq/compound
+
+4. groq/compound-mini
+
+5. meta-llama/llama-prompt-guard-2-22m
+
+6. meta-llama/llama-prompt-guard-2-86m
+
+7. openai/gpt-oss-120b
+
+8. openai/gpt-oss-20b
+
+9. openai/gpt-oss-safeguard-20b
+
+10. qwen/qwen3.6-27b
+
+11. qwen/qwen3.8-27b
+
+12. whisper-large-v3
+
+13. whisper-large-v3-turbo
+
+GEMINI — FREE-TIER MODELS
+=========================
+Count: 8
+
+1. gemini-3.6-flash
+
+2. gemini-3.6-flash-lite
+
+3. gemini-3.6-flash-preview-tts
+
+4. gemini-2.5-pro
+
+5. gemini-3-flash-preview
+
+6. gemini-3.1-flash-lite
+
+7. gemini-3.5-flash-lite
+
+8. gemini-3.6-flash
+
+HUGGING FACE — MODELS ACCESSIBLE THROUGH HF INFERENCE PROVIDERS
+===============================================================
+Count: 131
+
+1. aisingapore/Gemma-SEA-LION-v4-27B-IT
+   Providers: featherless-ai, publicai
+
+2. aisingapore/Qwen-SEA-LION-v4-32B-IT
+   Providers: featherless-ai, publicai
+
+3. alpindale/WizardLM-2-8x22B
+   Providers: novita
+
+4. baidu/ERNIE-4.5-VL-424B-A47B-Base-PT
+   Providers: novita
+
+5. CohereLabs/aya-expanse-32b
+   Providers: cohere
+
+6. CohereLabs/aya-vision-32b
+   Providers: cohere
+
+7. CohereLabs/c4ai-command-a-03-2025
+   Providers: cohere
+
+8. CohereLabs/c4ai-command-r-08-2024
+   Providers: cohere
+
+9. CohereLabs/c4ai-command-r7b-12-2024
+   Providers: cohere
+
+10. CohereLabs/command-a-reasoning-08-2025
+   Providers: cohere
+
+11. CohereLabs/command-a-translate-08-2025
+   Providers: cohere
+
+12. CohereLabs/tiny-aya-earth
+   Providers: cohere
+
+13. CohereLabs/tiny-aya-fire
+   Providers: cohere
+
+14. CohereLabs/tiny-aya-global
+   Providers: cohere
+
+15. CohereLabs/tiny-aya-water
+   Providers: cohere
+
+16. deepseek-ai/DeepSeek-R1
+   Providers: novita
+
+17. deepseek-ai/DeepSeek-R1-0528
+   Providers: deepinfra, featherless-ai, novita
+
+18. deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+   Providers: featherless-ai, novita
+
+19. deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+   Providers: featherless-ai, nscale
+
+20. deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+   Providers: featherless-ai, nscale
+
+21. deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+   Providers: nscale
+
+22. deepseek-ai/DeepSeek-V3
+   Providers: deepinfra
+
+23. deepseek-ai/DeepSeek-V3-0324
+   Providers: deepinfra, featherless-ai
+
+24. deepseek-ai/DeepSeek-V3.1
+   Providers: deepinfra, featherless-ai, novita
+
+25. deepseek-ai/DeepSeek-V3.1-Terminus
+   Providers: deepinfra, featherless-ai, novita
+
+26. deepseek-ai/DeepSeek-V3.2
+   Providers: deepinfra, featherless-ai, novita
+
+27. deepseek-ai/DeepSeek-V3.2-Exp
+   Providers: novita
+
+28. deepseek-ai/DeepSeek-V4-Flash
+   Providers: deepinfra, novita
+
+29. deepseek-ai/DeepSeek-V4-Flash-0731
+   Providers: baseten, deepinfra, fireworks-ai, novita, scaleway, together
+
+30. deepseek-ai/DeepSeek-V4-Flash-Vision-Exp
+   Providers: deepinfra, fireworks-ai, novita
+
+31. deepseek-ai/DeepSeek-V4-Pro
+   Providers: baseten, deepinfra, novita
+
+32. deepseek-ai/DeepSeek-V4-Pro-0813
+   Providers: baseten, deepinfra, fireworks-ai, novita, together
+
+33. google/gemma-3-12b-it
+   Providers: deepinfra, featherless-ai
+
+34. google/gemma-3-27b-it
+   Providers: deepinfra, featherless-ai
+
+35. google/gemma-3-4b-it
+   Providers: deepinfra, featherless-ai
+
+36. google/gemma-4-26B-A4B-it
+   Providers: deepinfra, featherless-ai, novita, scaleway
+
+37. google/gemma-4-31B-it
+   Providers: deepinfra, featherless-ai, novita, together
+
+38. ibm-granite/granite-4.2-30b
+   Providers: deepinfra
+
+39. ibm-granite/granite-4.2-3b
+   Providers: deepinfra
+
+40. ibm-granite/granite-4.2-8b
+   Providers: deepinfra
+
+41. inclusionAI/Ling-3.0-flash
+   Providers: deepinfra, novita
+
+42. inclusionAI/Ling-3.0-flash-Fin
+   Providers: deepinfra, novita
+
+43. inclusionAI/Ling-3.0-flash-VL
+   Providers: novita
+
+44. meta-llama/Llama-3.1-8B-Instruct
+   Providers: deepinfra, featherless-ai, novita, nscale
+
+45. meta-llama/Llama-3.3-70B-Instruct
+   Providers: featherless-ai, novita, ovhcloud, scaleway, together
+
+46. meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
+   Providers: novita
+
+47. meta-llama/Llama-4-Scout-17B-16E-Instruct
+   Providers: deepinfra, novita, nscale
+
+48. meta-llama/Llama-Guard-4-12B
+   Providers: deepinfra
+
+49. meta-models/Muse-Glimmer-30B
+   Providers: deepinfra, fireworks-ai, together
+
+50. microsoft/phi-4
+   Providers: deepinfra, featherless-ai
+
+51. MiniMaxAI/MiniMax-M1-80k
+   Providers: novita
+
+52. MiniMaxAI/MiniMax-M2
+   Providers: featherless-ai, novita
+
+53. MiniMaxAI/MiniMax-M2.1
+   Providers: featherless-ai, novita
+
+54. MiniMaxAI/MiniMax-M2.5
+   Providers: featherless-ai, novita
+
+55. MiniMaxAI/MiniMax-M2.7
+   Providers: deepinfra, featherless-ai, novita
+
+56. MiniMaxAI/MiniMax-M3
+   Providers: deepinfra, featherless-ai, fireworks-ai, novita, together
+
+57. moonshotai/Kimi-K2-Instruct
+   Providers: featherless-ai, novita
+
+58. moonshotai/Kimi-K2-Instruct-0905
+   Providers: novita
+
+59. moonshotai/Kimi-K2.5
+   Providers: deepinfra, featherless-ai, novita
+
+60. moonshotai/Kimi-K2.6
+   Providers: baseten, deepinfra, featherless-ai, fireworks-ai, novita
+
+61. moonshotai/Kimi-K2.7-Code
+   Providers: baseten, deepinfra, featherless-ai, fireworks-ai, novita
+
+62. moonshotai/Kimi-K3
+   Providers: baseten, deepinfra, featherless-ai, fireworks-ai, together
+
+63. NousResearch/Hermes-3-Llama-3.1-70B
+   Providers: deepinfra, featherless-ai
+
+64. nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16
+   Providers: deepinfra
+
+65. nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4
+   Providers: fireworks-ai
+
+66. nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16
+   Providers: fireworks-ai
+
+67. openai/gpt-oss-120b
+   Providers: baseten, cerebras, deepinfra, featherless-ai, fireworks-ai, groq, novita, nscale, ovhcloud, scaleway, together
+
+68. openai/gpt-oss-20b
+   Providers: deepinfra, featherless-ai, groq, novita, nscale, ovhcloud, together
+
+69. openai/gpt-oss-safeguard-20b
+   Providers: groq
+
+70. prism-ml/Ternary-Bonsai-27B-AWQ-4bit
+   Providers: together
+
+71. prism-ml/Ternary-Bonsai-27B-gguf
+   Providers: together
+
+72. Qwen/Qwen2.5-72B-Instruct
+   Providers: deepinfra, featherless-ai, novita
+
+73. Qwen/Qwen2.5-7B-Instruct
+   Providers: featherless-ai, together
+
+74. Qwen/Qwen2.5-Coder-32B-Instruct
+   Providers: featherless-ai, nscale
+
+75. Qwen/Qwen2.5-Coder-3B-Instruct
+   Providers: featherless-ai, nscale
+
+76. Qwen/Qwen2.5-Coder-7B-Instruct
+   Providers: featherless-ai, nscale
+
+77. Qwen/Qwen2.5-VL-72B-Instruct
+   Providers: featherless-ai, ovhcloud
+
+78. Qwen/Qwen3-14B
+   Providers: deepinfra, featherless-ai, nscale
+
+79. Qwen/Qwen3-235B-A22B
+   Providers: featherless-ai, novita, nscale
+
+80. Qwen/Qwen3-235B-A22B-Instruct-2507
+   Providers: deepinfra, novita, nscale, scaleway
+
+81. Qwen/Qwen3-235B-A22B-Thinking-2507
+   Providers: deepinfra, featherless-ai, novita
+
+82. Qwen/Qwen3-30B-A3B
+   Providers: deepinfra
+
+83. Qwen/Qwen3-32B
+   Providers: deepinfra, featherless-ai, nscale
+
+84. Qwen/Qwen3-4B-Instruct-2507
+   Providers: featherless-ai, nscale
+
+85. Qwen/Qwen3-4B-Thinking-2507
+   Providers: featherless-ai, nscale
+
+86. Qwen/Qwen3-8B
+   Providers: featherless-ai, nscale
+
+87. Qwen/Qwen3-Coder-30B-A3B-Instruct
+   Providers: featherless-ai, scaleway
+
+88. Qwen/Qwen3-Coder-480B-A35B-Instruct
+   Providers: featherless-ai, novita
+
+89. Qwen/Qwen3-Coder-Next
+   Providers: featherless-ai, novita
+
+90. Qwen/Qwen3-Next-80B-A3B-Instruct
+   Providers: deepinfra, featherless-ai, novita
+
+91. Qwen/Qwen3-VL-235B-A22B-Instruct
+   Providers: deepinfra, novita
+
+92. Qwen/Qwen3-VL-235B-A22B-Thinking
+   Providers: featherless-ai, novita
+
+93. Qwen/Qwen3-VL-30B-A3B-Instruct
+   Providers: deepinfra, featherless-ai, novita
+
+94. Qwen/Qwen3.5-122B-A10B
+   Providers: deepinfra, novita
+
+95. Qwen/Qwen3.5-27B
+   Providers: deepinfra, featherless-ai, novita
+
+96. Qwen/Qwen3.5-35B-A3B
+   Providers: deepinfra, novita
+
+97. Qwen/Qwen3.5-397B-A17B
+   Providers: deepinfra, featherless-ai, novita, ovhcloud, scaleway
+
+98. Qwen/Qwen3.5-9B
+   Providers: deepinfra, featherless-ai, ovhcloud, together
+
+99. Qwen/Qwen3.6-27B
+   Providers: deepinfra, featherless-ai, ovhcloud
+
+100. Qwen/Qwen3.6-35B-A3B
+   Providers: deepinfra, featherless-ai, scaleway
+
+101. Qwen/Qwen3.8-2.4T-A95B
+   Providers: deepinfra, fireworks-ai, novita, together
+
+102. Qwen/Qwen3.8-27B
+   Providers: deepinfra, featherless-ai, novita, ovhcloud
+
+103. Sao10K/L3-8B-Lunaris-v1
+   Providers: featherless-ai, novita
+
+104. Sao10K/L3-8B-Stheno-v3.2
+   Providers: featherless-ai, novita
+
+105. speakleash/Bielik-11B-v3.0-Instruct
+   Providers: publicai
+
+106. stepfun-ai/Step-3.5-Flash
+   Providers: deepinfra, featherless-ai
+
+107. stepfun-ai/Step-3.7-Flash
+   Providers: deepinfra, featherless-ai
+
+108. tencent/Hy3
+   Providers: deepinfra
+
+109. thinkingmachines/Inkling
+   Providers: baseten, deepinfra, fireworks-ai, together
+
+110. thinkingmachines/Inkling-Small
+   Providers: baseten, deepinfra, together
+
+111. XiaomiMiMo/MiMo-V2.5
+   Providers: deepinfra, featherless-ai, novita
+
+112. XiaomiMiMo/MiMo-V2.5-Pro
+   Providers: deepinfra, novita
+
+113. zai-org/AutoGLM-Phone-9B-Multilingual
+   Providers: novita
+
+114. zai-org/GLM-4-32B-0414
+   Providers: featherless-ai, novita
+
+115. zai-org/GLM-4.5-Air
+   Providers: novita, zai-org
+
+116. zai-org/GLM-4.5V
+   Providers: novita, zai-org
+
+117. zai-org/GLM-4.5V-FP8
+   Providers: zai-org
+
+118. zai-org/GLM-4.6
+   Providers: deepinfra, featherless-ai, novita
+
+119. zai-org/GLM-4.6V
+   Providers: zai-org
+
+120. zai-org/GLM-4.6V-Flash
+   Providers: novita, zai-org
+
+121. zai-org/GLM-4.6V-FP8
+   Providers: zai-org
+
+122. zai-org/GLM-4.7
+   Providers: baseten, deepinfra, featherless-ai, novita, zai-org
+
+123. zai-org/GLM-4.7-Flash
+   Providers: deepinfra, featherless-ai, novita, zai-org
+
+124. zai-org/GLM-5
+   Providers: deepinfra, featherless-ai, novita, zai-org
+
+125. zai-org/GLM-5.1
+   Providers: deepinfra, featherless-ai
+
+126. zai-org/GLM-5.2
+   Providers: baseten, deepinfra, featherless-ai, fireworks-ai, novita, scaleway, together, zai-org
+
+127. zai-org/GLM-5.2-FP8
+   Providers: zai-org
+
+128. zai-org/GLM-5.3
+   Providers: baseten, deepinfra, fireworks-ai, novita, together, zai-org
+
+129. zai-org/GLM-5.3-BF16
+   Providers: zai-org
+
+130. zai-org/GLM-5.3-Flash
+   Providers: baseten, deepinfra, fireworks-ai, novita, together, zai-org
+
+131. zai-org/GLM-5.3-Flash-BF16
+   Providers: zai-org
+

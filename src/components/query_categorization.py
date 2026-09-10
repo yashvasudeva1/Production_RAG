@@ -30,7 +30,7 @@ class QueryCategorization:
     def __init__(
         self,
         prompt_file: Path = PROMPT_FILE,
-        model_name: str = "gemini-2.5-flash-lite"
+        model_name: str = "gemini-3.6-flash-lite"
     ) -> None:
         if not os.getenv("GEMINI_API_KEY"):
             raise EnvironmentError("GEMINI_API_KEY is not set.")
@@ -97,12 +97,12 @@ class QueryCategorization:
             config={
                 "metadata": {
                     "component": "query_categorization",
-                    "model": "gemini-2.5-flash-lite"
+                    "model": "gemini-3.6-flash-lite"
                 },
                 "tags": [
                     "rag",
                     "query-classification",
-                    "gemini-2.5-flash-lite"
+                    "gemini-3.6-flash-lite"
                 ]
             }
         )

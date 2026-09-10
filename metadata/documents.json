@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-09-10T12:16:03.734316+00:00",
+  "document_count": 4,
+  "documents": {
+    "7725cf5b21f15913": {
+      "document_id": "7725cf5b21f15913",
+      "filename": "GENERAL INFORMATION_INTERNSHIP NITI SCHEME.pdf",
+      "relative_path": "documents/GENERAL INFORMATION_INTERNSHIP NITI SCHEME.pdf",
+      "extension": ".pdf",
+      "size_bytes": 194883,
+      "modified_at": "2026-09-04T12:27:42.907148+00:00",
+      "extracted_metadata": {
+        "title": "Instructions to fill the Online Application Form",
+        "summary": "The document provides instructions for filling an online application form for an internship under the NITI Aayog scheme. It outlines required fields such as personal information, educational qualifications, and application deadlines, emphasizing that submissions must be made online during specific monthly periods.",
+        "document_type": "application instructions",
+        "topics": [
+          "internship application",
+          "online form submission",
+          "eligibility criteria",
+          "application deadlines"
+        ],
+        "keywords": [
+          "internship application",
+          "online form",
+          "NITI Aayog",
+          "eligibility criteria",
+          "application deadlines"
+        ],
+        "people": [],
+        "organizations": [
+          "NITI Aayog"
+        ],
+        "locations": [],
+        "dates": [],
+        "language": "English",
+        "department": "",
+        "author": "",
+        "version": "",
+        "entities": [
+          "NITI Aayog"
+        ]
+      }
+    },
+    "f27bfd499576a1fc": {
+      "document_id": "f27bfd499576a1fc",
+      "filename": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "relative_path": "documents/NIPS-2017-attention-is-all-you-need-Paper.pdf",
+      "extension": ".pdf",
+      "size_bytes": 569417,
+      "modified_at": "2026-08-13T08:49:08.969913+00:00",
+      "extracted_metadata": {
+        "title": "Attention Is All You Need",
+        "summary": "The paper introduces the Transformer, a new architecture based solely on attention mechanisms, replacing traditional recurrent and convolutional neural networks. It demonstrates superior performance in machine translation tasks, achieving high BLEU scores on WMT 2014 English-to-German and English-to-French datasets. The model's parallelizable nature reduces training time significantly compared to previous approaches.",
+        "document_type": "research_paper",
+        "topics": [
+          "machine translation",
+          "neural networks",
+          "sequence modeling",
+          "attention mechanisms",
+          "deep learning"
+        ],
+        "keywords": [
+          "machine translation",
+          "Transformer",
+          "attention mechanism",
+          "neural networks",
+          "sequence modeling"
+        ],
+        "people": [
+          "Ashish Vaswani",
+          "Noam Shazeer",
+          "Niki Parmar",
+          "Jakob Uszkoreit",
+          "Llion Jones",
+          "Aidan N. Gomez",
+          "Łukasz Kaiser",
+          "Illia Polosukhin"
+        ],
+        "organizations": [
+          "Google Brain",
+          "Google Research",
+          "University of Toronto"
+        ],
+        "locations": [],
+        "dates": [
+          "2017"
+        ],
+        "language": "English",
+        "department": "",
+        "author": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin",
+        "version": "",
+        "entities": [
+          "Google Brain",
+          "Google Research",
+          "University of Toronto"
+        ]
+      }
+    },
+    "2510521858616bf9": {
+      "document_id": "2510521858616bf9",
+      "filename": "Yash_Vasudeva_Data_Analyst.pdf",
+      "relative_path": "documents/Yash_Vasudeva_Data_Analyst.pdf",
+      "extension": ".pdf",
+      "size_bytes": 133986,
+      "modified_at": "2026-09-03T15:28:25.818095+00:00",
+      "extracted_metadata": {
+        "title": "Data Analyst",
+        "summary": "Yash Vasudeva is a Data Analyst with expertise in Python, SQL, and data visualization tools like Power BI and Tableau. He has experience as a Business Analyst Intern at Tata Power Delhi Distribution Limited, where he developed a fraud detection system using machine learning. He also contributes to technical communities through writing tutorials and maintaining repositories. His projects include analyzing macroeconomic and crime data, predicting customer churn, and winning hackathons. He holds a B.Tech in Information Technology and has received awards for academic and leadership excellence.",
+        "document_type": "resume",
+        "topics": [
+          "Data Analysis",
+          "Machine Learning",
+          "Data Visualization",
+          "Data Science",
+          "Technical Writing",
+          "Hackathons",
+          "Predictive Analytics"
+        ],
+        "keywords": [
+          "Data Analysis",
+          "Machine Learning",
+          "Python",
+          "SQL",
+          "Power BI",
+          "Tableau",
+          "XGBoost",
+          "Data Visualization",
+          "Customer Churn Analysis",
+          "Predictive Maintenance",
+          "Hackathon",
+          "GitHub",
+          "Flask",
+          "React",
+          "ARIMA",
+          "Linear Regression"
+        ],
+        "people": [
+          "Yash Vasudeva"
+        ],
+        "organizations": [
+          "Tata Power Delhi Distribution Limited",
+          "Namespace Community",
+          "Guru Gobind Singh Indraprastha University"
+        ],
+        "locations": [
+          "Delhi"
+        ],
+        "dates": [
+          "2024–2028",
+          "May 2026 – Jul 2026",
+          "Mar 2026 – Present",
+          "2023–24"
+        ],
+        "language": "English",
+        "department": "",
+        "author": "Yash Vasudeva",
+        "version": "",
+        "entities": [
+          "Guru Gobind Singh Indraprastha University",
+          "Tata Power Delhi Distribution Limited",
+          "Namespace Community",
+          "Delhi"
+        ]
+      }
+    },
+    "317e6c70bbb68d1a": {
+      "document_id": "317e6c70bbb68d1a",
+      "filename": "Yash_Vasudeva_ML.pdf",
+      "relative_path": "documents/Yash_Vasudeva_ML.pdf",
+      "extension": ".pdf",
+      "size_bytes": 142431,
+      "modified_at": "2026-09-03T12:27:35.600303+00:00",
+      "extracted_metadata": {
+        "title": "Machine Learning Engineer",
+        "summary": "Yash Vasudeva is a Machine Learning Engineer with expertise in Python, ML frameworks (Scikit-Learn, PyTorch, XGBoost), deep learning (TensorFlow, Transformers), and MLOps (FastAPI, Docker, MLflow). He has experience as a Business Analyst Intern at Tata Power Delhi Distribution Limited, where he developed an NTL identification portal using 12 meter-signal features. He also contributes to technical communities as a Technical Blog Writer for Namespace Community, publishes tutorials, and maintains repositories. His projects include ResearchLens (RAG assistant), ORCHESTRA (hackathon evaluation platform), and Real-Time YouTube Sentiment Analyzer. He has won MLH HackDay (Gemini Track) and is a National Hackathon Finalist.",
+        "document_type": "resume",
+        "topics": [
+          "Machine Learning",
+          "Data Science",
+          "Software Development",
+          "Artificial Intelligence",
+          "Data Analysis",
+          "MLOps",
+          "Natural Language Processing",
+          "Cloud Computing",
+          "DevOps",
+          "Project Management"
+        ],
+        "keywords": [
+          "Machine Learning",
+          "Python",
+          "FastAPI",
+          "GitHub",
+          "Transformer",
+          "NLP",
+          "Data Analysis",
+          "MLops",
+          "TensorFlow",
+          "PyTorch",
+          "XGBoost",
+          "LightGBM",
+          "Hugging Face",
+          "LangChain",
+          "LangGraph",
+          "Pandas",
+          "Polars",
+          "NumPy",
+          "MySQL",
+          "PostgreSQL",
+          "Docker",
+          "MLflow",
+          "Prometheus",
+          "Grafana",
+          "Git",
+          "Jupyter Notebook",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "people": [
+          "Yash Vasudeva"
+        ],
+        "organizations": [
+          "Tata Power Delhi Distribution Limited",
+          "Namespace Community",
+          "MLH",
+          "National Hackathon",
+          "S.D. Public School",
+          "Guru Gobind Singh Indraprastha University"
+        ],
+        "locations": [
+          "Delhi",
+          "India"
+        ],
+        "dates": [
+          "2024–2028",
+          "May 2026 – Jul 2026",
+          "Mar 2026 – Present",
+          "2026",
+          "2023–24"
+        ],
+        "language": "English",
+        "department": "",
+        "author": "Yash Vasudeva",
+        "version": "",
+        "entities": [
+          "Yash Vasudeva",
+          "Tata Power Delhi Distribution Limited",
+          "Namespace Community",
+          "MLH",
+          "National Hackathon",
+          "S.D. Public School",
+          "Guru Gobind Singh Indraprastha University",
+          "Delhi",
+          "India"
+        ]
+      }
+    }
+  }
+}

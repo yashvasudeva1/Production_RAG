@@ -1,0 +1,45 @@
+#basic langchain libraries
+langchain
+langchain-core
+langchain-community
+langsmith
+langchain_google_genai
+
+
+#libraries essential for rag 
+huggingface-hub
+transformers
+sentence-transformers
+
+#vector database libraries
+chromadb
+faiss-cpu
+qdrant-client
+
+#keyword matching libraries
+rank-bm25
+
+#document/web ingestion and parsing 
+pypdf
+pymupdf
+beautifulsoup4
+
+#processing libraries
+numpy 
+pandas 
+polars
+
+#visualization libraries
+matplotlib
+seaborn 
+
+#structured data libraries
+pydantic
+typing
+
+#api and web frameworks
+fastapi
+uvicorn
+python-dotenv
+requests
+python-docx
